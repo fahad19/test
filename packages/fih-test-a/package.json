@@ -1,13 +1,13 @@
 {
   "name": "fih-test-a",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"fih-test-a: test\""
   },
   "dependencies": {
-    "fih-test": "1.0.0"
+    "fih-test": "^0.0.1"
   },
   "author": "",
   "license": "ISC"
