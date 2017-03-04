@@ -1,0 +1,14 @@
+{
+  "name": "fih-test-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"fih-test-a: test\""
+  },
+  "dependencies": {
+    "fih-test": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
