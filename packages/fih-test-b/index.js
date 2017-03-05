@@ -1,1 +1,1 @@
-module.exports = 'Bee';
+module.exports = 'Bee-next';
